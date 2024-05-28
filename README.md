@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wiferpagri
+- 👋 Hi, I’m William Pabon, @Wiferpagri
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently developing Machine Learning and Neuronal Network projects
 - 💞️ I’m looking to collaborate on Data Science projects where I can show my abilities
