@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently developing Machine Learning and Neuronal Network projects
 - 💞️ I’m looking to collaborate on Data Science projects where I can show my abilities
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/william-ferney-pabon-grimaldi-026846236/
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/wiferpagri
 - 😄 Pronouns: he/him
 
 <!---
